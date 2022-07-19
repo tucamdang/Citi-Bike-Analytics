@@ -1,6 +1,7 @@
 # Citi-Bike-Analytics
 
-Link: https://public.tableau.com/views/CitiBike2022/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+Link: https://public.tableau.com/shared/227GFNZ4Y?:display_count=n&:origin=viz_share_link
+
 
 As the new lead analyst for the New York Citi Bike Program, I am in charge to oversee the largest bike sharing program in America. My task is to generate regular reports for city officials looking to publicise and improve the city program. By collecting data on the program's utilisation each month, my task is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 
