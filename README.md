@@ -5,7 +5,7 @@ Link: https://public.tableau.com/views/CitiBike2022-update/Story1?:language=en-G
 
 As the new lead analyst for the New York Citi Bike Program, I am in charge to oversee the largest bike sharing program in America. My task is to generate regular reports for city officials looking to publicise and improve the city program. By collecting data on the program's utilisation each month, my task is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 
-![image](https://user-images.githubusercontent.com/99168697/179456640-a1a412d4-f1e2-4cac-a26d-2a4d2f59c490.png)
+![image](https://user-images.githubusercontent.com/99168697/179666653-3652beba-f403-4bca-8ca1-5d9ae5d0c436.png)
 
  Link to Tableau Public workbook that includes:
           4-10 Total "Phenomenon" Visualisations
